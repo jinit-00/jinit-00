@@ -72,17 +72,4 @@ Fault-tolerant master-worker video encoding system with gRPC-based distributed t
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinit-00&show_icons=true&theme=default&count_private=true" alt="Jinit's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinit-00&theme=default" alt="Jinit's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinit-00&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
----
-
 <p align="center"><i>⚡ Open to internship and collaboration opportunities in backend engineering and AI/ML.</i></p>
