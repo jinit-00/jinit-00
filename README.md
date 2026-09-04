@@ -68,14 +68,4 @@ Fault-tolerant master-worker video encoding system with gRPC-based distributed t
 
 ---
 
-### 🏙️ Contribution Skyline
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jinit-00/jinit-00/output/github-contribution-grid-3d.svg" alt="3D Contribution Skyline" width="100%"/>
-</p>
-
-> This turns your contribution graph into a 3D building skyline. It needs a small one-time setup since GitHub can't generate it live — see below.
-
----
-
 <p align="center"><i>⚡ Open to internship and collaboration opportunities in backend engineering and AI/ML.</i></p>
