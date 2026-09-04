@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 18 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,7 +11,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
       - uses: yoshi389111/github-profile-3d-contrib@latest
@@ -19,11 +18,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-settings.json
-      - name: Commit & Push
-        run: |
+      - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
+          git commit -m "generated" || exit 0
+          git push
