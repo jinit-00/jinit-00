@@ -68,4 +68,10 @@ Fault-tolerant master-worker video encoding system with gRPC-based distributed t
 
 ---
 
+### 🏙️ Contribution Skyline
+
+![3D Contribution Skyline](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 <p align="center"><i>⚡ Open to internship and collaboration opportunities in backend engineering and AI/ML.</i></p>
