@@ -70,7 +70,7 @@ Fault-tolerant master-worker video encoding system with gRPC-based distributed t
 
 ### 🏙️ Contribution Skyline
 
-![3D Contribution Skyline](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Skyline](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
