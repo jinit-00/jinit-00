@@ -14,62 +14,109 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science, Indus University (CGPA: 9.4/10) — Class of 2027
-- 💼 Junior Python Developer Intern @ HN Techno (Jan–Mar 2026) — built an AI-powered document classification platform that cut manual processing time by 70%
-- 🧠 Strong foundation in DSA, backend systems, and distributed computing
-- 🤖 Building AI/ML-driven applications with a focus on scalable, production-ready systems
-- 📫 Reach me at **jinitsoneji@email.com**
+* 🎓 B.Tech in Computer Science, Indus University (CGPA: 9.4/10) — Class of 2027
+* 💼 Junior Python Developer Intern @ HN Techno (Jan–Mar 2026) — built an AI-powered document classification platform that cut manual processing time by 70%
+* 🧠 Strong foundation in DSA, backend systems, and distributed computing
+* 🤖 Building AI/ML-driven applications with a focus on scalable, production-ready systems
+* 📫 Reach me at **[jinitsoneji@email.com](mailto:jinitsoneji@email.com)**
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=java\&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 
 **Frameworks & Backend**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square\&logo=google\&logoColor=white)
 
 **AI/ML & Data**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
 
 **Infra & Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square\&logo=elasticsearch\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+## 📊 GitHub Contributions
 
-#### 🔊 [Deepfake and Vishing Detection](https://github.com/jinit-00)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jinit-00&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinit-00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinit-00&theme=github-dark-blue&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/jinit-00" alt="Jinit Soneji's GitHub contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <b>📅 My contribution activity is tracked automatically from GitHub.</b>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔊 Deepfake and Vishing Detection
+
 `Python` `TensorFlow` `CNN` `OpenCV` `Librosa`
+
 Multimodal deepfake detection system using CNNs to identify manipulated facial images and synthetic voice recordings, with image/audio preprocessing pipelines to help prevent vishing attacks and cyber fraud.
 
-#### 📰 [PulseNews – Real-Time AI News Platform](https://github.com/jinit-00)
+### 📰 PulseNews – Real-Time AI News Platform
+
 `Python` `FastAPI` `Kafka` `Qdrant` `Elasticsearch` `React`
-Event-driven RSS ingestion across 6 categories with deduplication and sentiment analysis, a RAG-based semantic search system (Qdrant + Sentence Transformers + Gemini API) for citation-backed answers, live updates via FastAPI WebSockets, and real-time analytics via Elasticsearch/Kibana.
 
-#### 🎥 [Distributed Video Encoding System](https://github.com/jinit-00)
+Event-driven RSS ingestion across 6 categories with deduplication and sentiment analysis, a RAG-based semantic search system using Qdrant + Sentence Transformers + Gemini API for citation-backed answers, live updates via FastAPI WebSockets, and real-time analytics via Elasticsearch/Kibana.
+
+### 🎥 Distributed Video Encoding System
+
 `Python` `gRPC` `Raft` `FFmpeg` `Docker` `Kubernetes`
-Fault-tolerant master-worker video encoding system with gRPC-based distributed task scheduling, Raft-based leader election and failure recovery for high availability, and keyframe-aware FFmpeg segmentation deployed on Kubernetes.
 
-> 💡 Replace the placeholder links above with the actual GitHub repo URLs for each project.
+Fault-tolerant master-worker video encoding system with gRPC-based distributed task scheduling, Raft-based leader election and failure recovery for high availability, and keyframe-aware FFmpeg segmentation deployed on Kubernetes.
 
 ---
 
-<p align="center"><i>⚡ Open to internship and collaboration opportunities in backend engineering and AI/ML.</i></p>
+## 📈 Most Active Contribution Day
+
+<p align="center">
+
+**Want this section to show your actual highest-contribution day automatically?**
+
+</p>
+
+You can add a GitHub Action that calculates your contribution history and updates this section automatically.
+
+---
+
+<p align="center">
+  <i>⚡ Open to internship and collaboration opportunities in backend engineering and AI/ML.</i>
+</p>
